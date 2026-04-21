@@ -156,8 +156,4 @@ Access the server in your browser at: **`http://127.0.0.1:4173/index.html`** (Us
 - AI card generation will fail unless the backend has a valid Gemini API key
 - Signed-in features require a working Supabase Auth configuration and a reachable backend API
 
-## Project Credits
 
-- **Andy:** Completed the primary implementation of the application. Built the frontend and backend logic, configured the Supabase/PostgreSQL database, wrote the automated tests, handed the final GitHub/Render deployments, and completed documentation.
-  
-- **Bhargav:** Worked on release documentation. Conducted independent bug bashes to report issues. Worked on Initial prototyping to migrate to react, which was later scrapped.
